@@ -1,0 +1,16 @@
+{
+  "name": "socket_study",
+  "version": "1.0.0",
+  "description": "websocket study demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node websocket.js"
+  },
+  "keywords": [
+    "websocket",
+    "socket.io"
+  ],
+  "author": "",
+  "license": "ISC"
+}
